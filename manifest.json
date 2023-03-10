@@ -1,8 +1,8 @@
 {
-	"id": "ec280171-c67b-4cf8-923f-dc27fea91ee1",
-	"authors": ["CubeCoders Limited", "AMP Community"],
-	"origin": "https://github.com/CubeCoders/AMPTemplates.git",
-	"url": "https://github.com/CubeCoders/AMPTemplates",
+	"id": "83fa3548-4fa6-457a-8a3b-7301d5cf869a",
+	"authors": ["CubeCoders Limited", "AMP Community", "Greelan", "H&P"],
+	"origin": "https://github.com/SandMouse/AMPTemplates-w-openttd/AMPTemplates-w-openttd.git",
+	"url": "https://github.com/SandMouse/AMPTemplates-w-openttd",
 	"imagefile": "",
 	"prefix": "",
 	"repotype": "AppTemplates"
